@@ -1,0 +1,353 @@
+"Timestamp","What year of study are you currently in?","How many hours of formal lectures do you have in a typical week? [Answer in a range of 5 units, e.g. 25-30, 35-40]
+Answer only in numbers.
+Passed out students fill NULL.","What is your typical ONE-WAY travel time to college on an average day?","What is your PRIMARY mode of transport to college?","What is you academic goal (as per CGPA)?
+For passed out students, just fill in your final CGPA.","Do you have any major time commitments outside of regular classes?
+PASSED OUT students will fill in the option which matched the most with their case in their college days ","What is your current accommodation situation? 
+PASSED OUT students will click on the option which matched their situation when they were in college","Perceived value/ learning:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how much essential, relevant, and testable knowledge is consistently conveyed by the professor? [Prof. B. Biswal]","Perceived value/ learning:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how much essential, relevant, and testable knowledge is consistently conveyed by the professor? [Prof. Shobha Bagai]","Perceived value/ learning:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how much essential, relevant, and testable knowledge is consistently conveyed by the professor? [Prof. Pankaj Tyagi]","Perceived value/ learning:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how much essential, relevant, and testable knowledge is consistently conveyed by the professor? [Prof. Swati Arora]","Perceived value/ learning:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how much essential, relevant, and testable knowledge is consistently conveyed by the professor? [Prof. Mahima Kaushik]","Perceived value/ learning:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how much essential, relevant, and testable knowledge is consistently conveyed by the professor? [Prof. Nirmal Yadav]","Perceived value/ learning:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how much essential, relevant, and testable knowledge is consistently conveyed by the professor? [Prof. Sonam Tanwar]","Perceived value/ learning:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how much essential, relevant, and testable knowledge is consistently conveyed by the professor? [Prof. Asani Bhaduri]","Perceived value/ learning:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how much essential, relevant, and testable knowledge is consistently conveyed by the professor? [Prof. Harendra Pal Singh]","Perceived value/ learning:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how much essential, relevant, and testable knowledge is consistently conveyed by the professor? [Prof. Sachin Kumar]","Perceived value/ learning:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how much essential, relevant, and testable knowledge is consistently conveyed by the professor? [Prof. J.S. Purohit]","Perceived value/ learning:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how much essential, relevant, and testable knowledge is consistently conveyed by the professor? [Prof. Dorje Dawa]","Perceived value/ learning:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how much essential, relevant, and testable knowledge is consistently conveyed by the professor? [Prof. Shobha Rai]","Perceived value/ learning:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how much essential, relevant, and testable knowledge is consistently conveyed by the professor? [Prof. Anjani Verma]","Perceived value/ learning:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how much essential, relevant, and testable knowledge is consistently conveyed by the professor? [Prof. Manish Kumar]","Perceived value/ learning:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how much essential, relevant, and testable knowledge is consistently conveyed by the professor? [ Sanjeewani Sehgal]","Liking & Engagement:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how motivated are you to attend this class based purely on the content, delivery, and personal interest?
+
+In other words, how likely are you to attend this professor's class if your attendance policy was zero-strike? [Prof. B. Biswal]","Liking & Engagement:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how motivated are you to attend this class based purely on the content, delivery, and personal interest?
+
+In other words, how likely are you to attend this professor's class if your attendance policy was zero-strike? [Prof. Shobha Bagai]","Liking & Engagement:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how motivated are you to attend this class based purely on the content, delivery, and personal interest?
+
+In other words, how likely are you to attend this professor's class if your attendance policy was zero-strike? [Prof. Pankaj Tyagi]","Liking & Engagement:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how motivated are you to attend this class based purely on the content, delivery, and personal interest?
+
+In other words, how likely are you to attend this professor's class if your attendance policy was zero-strike? [Prof. Swati Arora]","Liking & Engagement:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how motivated are you to attend this class based purely on the content, delivery, and personal interest?
+
+In other words, how likely are you to attend this professor's class if your attendance policy was zero-strike? [Prof. Mahima Kaushik]","Liking & Engagement:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how motivated are you to attend this class based purely on the content, delivery, and personal interest?
+
+In other words, how likely are you to attend this professor's class if your attendance policy was zero-strike? [Prof. Nirmal Yadav]","Liking & Engagement:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how motivated are you to attend this class based purely on the content, delivery, and personal interest?
+
+In other words, how likely are you to attend this professor's class if your attendance policy was zero-strike? [Prof. Sonam Tanwar]","Liking & Engagement:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how motivated are you to attend this class based purely on the content, delivery, and personal interest?
+
+In other words, how likely are you to attend this professor's class if your attendance policy was zero-strike? [Prof. Asani Bhaduri]","Liking & Engagement:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how motivated are you to attend this class based purely on the content, delivery, and personal interest?
+
+In other words, how likely are you to attend this professor's class if your attendance policy was zero-strike? [Prof. Harendra Pal Singh]","Liking & Engagement:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how motivated are you to attend this class based purely on the content, delivery, and personal interest?
+
+In other words, how likely are you to attend this professor's class if your attendance policy was zero-strike? [Prof. Sachin Kumar]","Liking & Engagement:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how motivated are you to attend this class based purely on the content, delivery, and personal interest?
+
+In other words, how likely are you to attend this professor's class if your attendance policy was zero-strike? [Prof. J.S. Purohit]","Liking & Engagement:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how motivated are you to attend this class based purely on the content, delivery, and personal interest?
+
+In other words, how likely are you to attend this professor's class if your attendance policy was zero-strike? [Prof. Dorje Dawa]","Liking & Engagement:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how motivated are you to attend this class based purely on the content, delivery, and personal interest?
+
+In other words, how likely are you to attend this professor's class if your attendance policy was zero-strike? [Prof. Shobha Rai]","Liking & Engagement:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how motivated are you to attend this class based purely on the content, delivery, and personal interest?
+
+In other words, how likely are you to attend this professor's class if your attendance policy was zero-strike? [Prof. Anjani Verma]","Liking & Engagement:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how motivated are you to attend this class based purely on the content, delivery, and personal interest?
+
+In other words, how likely are you to attend this professor's class if your attendance policy was zero-strike? [Prof. Manish Kumar]","Liking & Engagement:
+
+On a scale of 1 to 10 (1= Very Little, 10= Very High), how motivated are you to attend this class based purely on the content, delivery, and personal interest?
+
+In other words, how likely are you to attend this professor's class if your attendance policy was zero-strike? [ Sanjeewani Sehgal]","Study Time Efficiency:
+
+On a scale of 1 to 10 (1= Requires same study time; 10 = Reduces study time by half or more.), how much does attending this class reduce the total time you need to spend studying the same topic outside of class?
+ [Prof. B. Biswal]","Study Time Efficiency:
+
+On a scale of 1 to 10 (1= Requires same study time; 10 = Reduces study time by half or more.), how much does attending this class reduce the total time you need to spend studying the same topic outside of class?
+ [Prof. Shobha Bagai]","Study Time Efficiency:
+
+On a scale of 1 to 10 (1= Requires same study time; 10 = Reduces study time by half or more.), how much does attending this class reduce the total time you need to spend studying the same topic outside of class?
+ [Prof. Pankaj Tyagi]","Study Time Efficiency:
+
+On a scale of 1 to 10 (1= Requires same study time; 10 = Reduces study time by half or more.), how much does attending this class reduce the total time you need to spend studying the same topic outside of class?
+ [Prof. Swati Arora]","Study Time Efficiency:
+
+On a scale of 1 to 10 (1= Requires same study time; 10 = Reduces study time by half or more.), how much does attending this class reduce the total time you need to spend studying the same topic outside of class?
+ [Prof. Mahima Kaushik]","Study Time Efficiency:
+
+On a scale of 1 to 10 (1= Requires same study time; 10 = Reduces study time by half or more.), how much does attending this class reduce the total time you need to spend studying the same topic outside of class?
+ [Prof. Nirmal Yadav]","Study Time Efficiency:
+
+On a scale of 1 to 10 (1= Requires same study time; 10 = Reduces study time by half or more.), how much does attending this class reduce the total time you need to spend studying the same topic outside of class?
+ [Prof. Sonam Tanwar]","Study Time Efficiency:
+
+On a scale of 1 to 10 (1= Requires same study time; 10 = Reduces study time by half or more.), how much does attending this class reduce the total time you need to spend studying the same topic outside of class?
+ [Prof. Asani Bhaduri]","Study Time Efficiency:
+
+On a scale of 1 to 10 (1= Requires same study time; 10 = Reduces study time by half or more.), how much does attending this class reduce the total time you need to spend studying the same topic outside of class?
+ [Prof. Harendra Pal Singh]","Study Time Efficiency:
+
+On a scale of 1 to 10 (1= Requires same study time; 10 = Reduces study time by half or more.), how much does attending this class reduce the total time you need to spend studying the same topic outside of class?
+ [Prof. Sachin Kumar]","Study Time Efficiency:
+
+On a scale of 1 to 10 (1= Requires same study time; 10 = Reduces study time by half or more.), how much does attending this class reduce the total time you need to spend studying the same topic outside of class?
+ [Prof. J.S. Purohit]","Study Time Efficiency:
+
+On a scale of 1 to 10 (1= Requires same study time; 10 = Reduces study time by half or more.), how much does attending this class reduce the total time you need to spend studying the same topic outside of class?
+ [Prof. Dorje Dawa]","Study Time Efficiency:
+
+On a scale of 1 to 10 (1= Requires same study time; 10 = Reduces study time by half or more.), how much does attending this class reduce the total time you need to spend studying the same topic outside of class?
+ [Prof. Shobha Rai]","Study Time Efficiency:
+
+On a scale of 1 to 10 (1= Requires same study time; 10 = Reduces study time by half or more.), how much does attending this class reduce the total time you need to spend studying the same topic outside of class?
+ [Prof. Anjani Verma]","Study Time Efficiency:
+
+On a scale of 1 to 10 (1= Requires same study time; 10 = Reduces study time by half or more.), how much does attending this class reduce the total time you need to spend studying the same topic outside of class?
+ [Prof. Manish Kumar]","Study Time Efficiency:
+
+On a scale of 1 to 10 (1= Requires same study time; 10 = Reduces study time by half or more.), how much does attending this class reduce the total time you need to spend studying the same topic outside of class?
+ [ Sanjeewani Sehgal]","Attendance Risk:
+
+On a scale of 1 to 10 (1 = Zero risk, never check; 10 = Always check, high risk of being marked absent.), how strictly and reliably is attendance recorded and enforced by the faculty/system for this class?
+ [Prof. B. Biswal]","Attendance Risk:
+
+On a scale of 1 to 10 (1 = Zero risk, never check; 10 = Always check, high risk of being marked absent.), how strictly and reliably is attendance recorded and enforced by the faculty/system for this class?
+ [Prof. Shobha Bagai]","Attendance Risk:
+
+On a scale of 1 to 10 (1 = Zero risk, never check; 10 = Always check, high risk of being marked absent.), how strictly and reliably is attendance recorded and enforced by the faculty/system for this class?
+ [Prof. Pankaj Tyagi]","Attendance Risk:
+
+On a scale of 1 to 10 (1 = Zero risk, never check; 10 = Always check, high risk of being marked absent.), how strictly and reliably is attendance recorded and enforced by the faculty/system for this class?
+ [Prof. Swati Arora]","Attendance Risk:
+
+On a scale of 1 to 10 (1 = Zero risk, never check; 10 = Always check, high risk of being marked absent.), how strictly and reliably is attendance recorded and enforced by the faculty/system for this class?
+ [Prof. Mahima Kaushik]","Attendance Risk:
+
+On a scale of 1 to 10 (1 = Zero risk, never check; 10 = Always check, high risk of being marked absent.), how strictly and reliably is attendance recorded and enforced by the faculty/system for this class?
+ [Prof. Nirmal Yadav]","Attendance Risk:
+
+On a scale of 1 to 10 (1 = Zero risk, never check; 10 = Always check, high risk of being marked absent.), how strictly and reliably is attendance recorded and enforced by the faculty/system for this class?
+ [Prof. Sonam Tanwar]","Attendance Risk:
+
+On a scale of 1 to 10 (1 = Zero risk, never check; 10 = Always check, high risk of being marked absent.), how strictly and reliably is attendance recorded and enforced by the faculty/system for this class?
+ [Prof. Asani Bhaduri]","Attendance Risk:
+
+On a scale of 1 to 10 (1 = Zero risk, never check; 10 = Always check, high risk of being marked absent.), how strictly and reliably is attendance recorded and enforced by the faculty/system for this class?
+ [Prof. Harendra Pal Singh]","Attendance Risk:
+
+On a scale of 1 to 10 (1 = Zero risk, never check; 10 = Always check, high risk of being marked absent.), how strictly and reliably is attendance recorded and enforced by the faculty/system for this class?
+ [Prof. Sachin Kumar]","Attendance Risk:
+
+On a scale of 1 to 10 (1 = Zero risk, never check; 10 = Always check, high risk of being marked absent.), how strictly and reliably is attendance recorded and enforced by the faculty/system for this class?
+ [Prof. J.S. Purohit]","Attendance Risk:
+
+On a scale of 1 to 10 (1 = Zero risk, never check; 10 = Always check, high risk of being marked absent.), how strictly and reliably is attendance recorded and enforced by the faculty/system for this class?
+ [Prof. Dorje Dawa]","Attendance Risk:
+
+On a scale of 1 to 10 (1 = Zero risk, never check; 10 = Always check, high risk of being marked absent.), how strictly and reliably is attendance recorded and enforced by the faculty/system for this class?
+ [Prof. Shobha Rai]","Attendance Risk:
+
+On a scale of 1 to 10 (1 = Zero risk, never check; 10 = Always check, high risk of being marked absent.), how strictly and reliably is attendance recorded and enforced by the faculty/system for this class?
+ [Prof. Anjani Verma]","Attendance Risk:
+
+On a scale of 1 to 10 (1 = Zero risk, never check; 10 = Always check, high risk of being marked absent.), how strictly and reliably is attendance recorded and enforced by the faculty/system for this class?
+ [Prof. Manish Kumar]","Attendance Risk:
+
+On a scale of 1 to 10 (1 = Zero risk, never check; 10 = Always check, high risk of being marked absent.), how strictly and reliably is attendance recorded and enforced by the faculty/system for this class?
+ [ Sanjeewani Sehgal]","Time Block: Morning
+9 AM - 11 AM [Prof. B. Biswal]","Time Block: Morning
+9 AM - 11 AM [Prof. Shobha Bagai]","Time Block: Morning
+9 AM - 11 AM [Prof. Pankaj Tyagi]","Time Block: Morning
+9 AM - 11 AM [Prof. Swati Arora]","Time Block: Morning
+9 AM - 11 AM [Prof. Mahima Kaushik]","Time Block: Morning
+9 AM - 11 AM [Prof. Nirmal Yadav]","Time Block: Morning
+9 AM - 11 AM [Prof. Sonam Tanwar]","Time Block: Morning
+9 AM - 11 AM [Prof. Asani Bhaduri]","Time Block: Morning
+9 AM - 11 AM [Prof. Harendra Pal Singh]","Time Block: Morning
+9 AM - 11 AM [Prof. Sachin Kumar]","Time Block: Morning
+9 AM - 11 AM [Prof. J.S. Purohit]","Time Block: Morning
+9 AM - 11 AM [Prof. Dorje Dawa]","Time Block: Morning
+9 AM - 11 AM [Prof. Shobha Rai]","Time Block: Morning
+9 AM - 11 AM [Prof. Anjani Verma]","Time Block: Morning
+9 AM - 11 AM [Prof. Manish Kumar]","Time Block: Morning
+9 AM - 11 AM [ Sanjeewani Sehgal]","Time Block: Mid-Day 
+(Pre- Lunch)
+11 AM - 1 PM [Prof. B. Biswal]","Time Block: Mid-Day 
+(Pre- Lunch)
+11 AM - 1 PM [Prof. Shobha Bagai]","Time Block: Mid-Day 
+(Pre- Lunch)
+11 AM - 1 PM [Prof. Pankaj Tyagi]","Time Block: Mid-Day 
+(Pre- Lunch)
+11 AM - 1 PM [Prof. Swati Arora]","Time Block: Mid-Day 
+(Pre- Lunch)
+11 AM - 1 PM [Prof. Mahima Kaushik]","Time Block: Mid-Day 
+(Pre- Lunch)
+11 AM - 1 PM [Prof. Nirmal Yadav]","Time Block: Mid-Day 
+(Pre- Lunch)
+11 AM - 1 PM [Prof. Sonam Tanwar]","Time Block: Mid-Day 
+(Pre- Lunch)
+11 AM - 1 PM [Prof. Asani Bhaduri]","Time Block: Mid-Day 
+(Pre- Lunch)
+11 AM - 1 PM [Prof. Harendra Pal Singh]","Time Block: Mid-Day 
+(Pre- Lunch)
+11 AM - 1 PM [Prof. Sachin Kumar]","Time Block: Mid-Day 
+(Pre- Lunch)
+11 AM - 1 PM [Prof. J.S. Purohit]","Time Block: Mid-Day 
+(Pre- Lunch)
+11 AM - 1 PM [Prof. Dorje Dawa]","Time Block: Mid-Day 
+(Pre- Lunch)
+11 AM - 1 PM [Prof. Shobha Rai]","Time Block: Mid-Day 
+(Pre- Lunch)
+11 AM - 1 PM [Prof. Anjani Verma]","Time Block: Mid-Day 
+(Pre- Lunch)
+11 AM - 1 PM [Prof. Manish Kumar]","Time Block: Mid-Day 
+(Pre- Lunch)
+11 AM - 1 PM [ Sanjeewani Sehgal]","Time Block: Mid-Afternoon
+(Post- Lunch)
+2 PM - 4 PM [Prof. B. Biswal]","Time Block: Mid-Afternoon
+(Post- Lunch)
+2 PM - 4 PM [Prof. Shobha Bagai]","Time Block: Mid-Afternoon
+(Post- Lunch)
+2 PM - 4 PM [Prof. Pankaj Tyagi]","Time Block: Mid-Afternoon
+(Post- Lunch)
+2 PM - 4 PM [Prof. Swati Arora]","Time Block: Mid-Afternoon
+(Post- Lunch)
+2 PM - 4 PM [Prof. Mahima Kaushik]","Time Block: Mid-Afternoon
+(Post- Lunch)
+2 PM - 4 PM [Prof. Nirmal Yadav]","Time Block: Mid-Afternoon
+(Post- Lunch)
+2 PM - 4 PM [Prof. Sonam Tanwar]","Time Block: Mid-Afternoon
+(Post- Lunch)
+2 PM - 4 PM [Prof. Asani Bhaduri]","Time Block: Mid-Afternoon
+(Post- Lunch)
+2 PM - 4 PM [Prof. Harendra Pal Singh]","Time Block: Mid-Afternoon
+(Post- Lunch)
+2 PM - 4 PM [Prof. Sachin Kumar]","Time Block: Mid-Afternoon
+(Post- Lunch)
+2 PM - 4 PM [Prof. J.S. Purohit]","Time Block: Mid-Afternoon
+(Post- Lunch)
+2 PM - 4 PM [Prof. Dorje Dawa]","Time Block: Mid-Afternoon
+(Post- Lunch)
+2 PM - 4 PM [Prof. Shobha Rai]","Time Block: Mid-Afternoon
+(Post- Lunch)
+2 PM - 4 PM [Prof. Anjani Verma]","Time Block: Mid-Afternoon
+(Post- Lunch)
+2 PM - 4 PM [Prof. Manish Kumar]","Time Block: Mid-Afternoon
+(Post- Lunch)
+2 PM - 4 PM [ Sanjeewani Sehgal]","Time Block: Late-Afternoon
+4 PM - 6 PM [Prof. B. Biswal]","Time Block: Late-Afternoon
+4 PM - 6 PM [Prof. Shobha Bagai]","Time Block: Late-Afternoon
+4 PM - 6 PM [Prof. Pankaj Tyagi]","Time Block: Late-Afternoon
+4 PM - 6 PM [Prof. Swati Arora]","Time Block: Late-Afternoon
+4 PM - 6 PM [Prof. Mahima Kaushik]","Time Block: Late-Afternoon
+4 PM - 6 PM [Prof. Nirmal Yadav]","Time Block: Late-Afternoon
+4 PM - 6 PM [Prof. Sonam Tanwar]","Time Block: Late-Afternoon
+4 PM - 6 PM [Prof. Asani Bhaduri]","Time Block: Late-Afternoon
+4 PM - 6 PM [Prof. Harendra Pal Singh]","Time Block: Late-Afternoon
+4 PM - 6 PM [Prof. Sachin Kumar]","Time Block: Late-Afternoon
+4 PM - 6 PM [Prof. J.S. Purohit]","Time Block: Late-Afternoon
+4 PM - 6 PM [Prof. Dorje Dawa]","Time Block: Late-Afternoon
+4 PM - 6 PM [Prof. Shobha Rai]","Time Block: Late-Afternoon
+4 PM - 6 PM [Prof. Anjani Verma]","Time Block: Late-Afternoon
+4 PM - 6 PM [Prof. Manish Kumar]","Time Block: Late-Afternoon
+4 PM - 6 PM [ Sanjeewani Sehgal]","Holiday Skip Likelihood
+
+On a scale of 1 to 10 (1 = Highly Likely to Skip, 10 = Highly Likely to Attend), how likely are you to attend this professor's class if it falls on the day immediately before or after a (major) college holiday? [Prof. B. Biswal]","Holiday Skip Likelihood
+
+On a scale of 1 to 10 (1 = Highly Likely to Skip, 10 = Highly Likely to Attend), how likely are you to attend this professor's class if it falls on the day immediately before or after a (major) college holiday? [Prof. Shobha Bagai]","Holiday Skip Likelihood
+
+On a scale of 1 to 10 (1 = Highly Likely to Skip, 10 = Highly Likely to Attend), how likely are you to attend this professor's class if it falls on the day immediately before or after a (major) college holiday? [Prof. Pankaj Tyagi]","Holiday Skip Likelihood
+
+On a scale of 1 to 10 (1 = Highly Likely to Skip, 10 = Highly Likely to Attend), how likely are you to attend this professor's class if it falls on the day immediately before or after a (major) college holiday? [Prof. Swati Arora]","Holiday Skip Likelihood
+
+On a scale of 1 to 10 (1 = Highly Likely to Skip, 10 = Highly Likely to Attend), how likely are you to attend this professor's class if it falls on the day immediately before or after a (major) college holiday? [Prof. Mahima Kaushik]","Holiday Skip Likelihood
+
+On a scale of 1 to 10 (1 = Highly Likely to Skip, 10 = Highly Likely to Attend), how likely are you to attend this professor's class if it falls on the day immediately before or after a (major) college holiday? [Prof. Nirmal Yadav]","Holiday Skip Likelihood
+
+On a scale of 1 to 10 (1 = Highly Likely to Skip, 10 = Highly Likely to Attend), how likely are you to attend this professor's class if it falls on the day immediately before or after a (major) college holiday? [Prof. Sonam Tanwar]","Holiday Skip Likelihood
+
+On a scale of 1 to 10 (1 = Highly Likely to Skip, 10 = Highly Likely to Attend), how likely are you to attend this professor's class if it falls on the day immediately before or after a (major) college holiday? [Prof. Asani Bhaduri]","Holiday Skip Likelihood
+
+On a scale of 1 to 10 (1 = Highly Likely to Skip, 10 = Highly Likely to Attend), how likely are you to attend this professor's class if it falls on the day immediately before or after a (major) college holiday? [Prof. Harendra Pal Singh]","Holiday Skip Likelihood
+
+On a scale of 1 to 10 (1 = Highly Likely to Skip, 10 = Highly Likely to Attend), how likely are you to attend this professor's class if it falls on the day immediately before or after a (major) college holiday? [Prof. Sachin Kumar]","Holiday Skip Likelihood
+
+On a scale of 1 to 10 (1 = Highly Likely to Skip, 10 = Highly Likely to Attend), how likely are you to attend this professor's class if it falls on the day immediately before or after a (major) college holiday? [Prof. J.S. Purohit]","Holiday Skip Likelihood
+
+On a scale of 1 to 10 (1 = Highly Likely to Skip, 10 = Highly Likely to Attend), how likely are you to attend this professor's class if it falls on the day immediately before or after a (major) college holiday? [Prof. Dorje Dawa]","Holiday Skip Likelihood
+
+On a scale of 1 to 10 (1 = Highly Likely to Skip, 10 = Highly Likely to Attend), how likely are you to attend this professor's class if it falls on the day immediately before or after a (major) college holiday? [Prof. Shobha Rai]","Holiday Skip Likelihood
+
+On a scale of 1 to 10 (1 = Highly Likely to Skip, 10 = Highly Likely to Attend), how likely are you to attend this professor's class if it falls on the day immediately before or after a (major) college holiday? [Prof. Anjani Verma]","Holiday Skip Likelihood
+
+On a scale of 1 to 10 (1 = Highly Likely to Skip, 10 = Highly Likely to Attend), how likely are you to attend this professor's class if it falls on the day immediately before or after a (major) college holiday? [Prof. Manish Kumar]","Holiday Skip Likelihood
+
+On a scale of 1 to 10 (1 = Highly Likely to Skip, 10 = Highly Likely to Attend), how likely are you to attend this professor's class if it falls on the day immediately before or after a (major) college holiday? [ Sanjeewani Sehgal]"
+"2025/11/02 5:11:27 pm GMT+5:30","2nd Year","25-30","over 90 minutes","Public Transport (e.g., Metro, Public Bus)","9.0 and above","Yes, I am heavily involved in a major society, club, or sports team.","PG / Rented Apartment","","9","","7","","","","","","","","8","8","10","10","","10","10","8","8","","","","","","","","7","9","","10","","","1","","10","","","","","","","","1","5","","1","","","10","","8","","","","","","","","10","10","","10","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","10","","1","","","","","","","","7","7","","9",""
+"2025/11/02 5:26:00 pm GMT+5:30","2nd Year","26","15 - 30 minutes","Public Transport (e.g., Metro, Public Bus)","9.0 and above","Yes, I have major personal or family responsibilities.","PG / Rented Apartment","10","10","8","8","8","7","7","8","7","9","1","7","7","9","9","7","10","10","8","8","8","6","6","9","6","9","1","6","7","9","9","6","10","10","8","4","4","4","6","6","4","8","1","4","4","6","6","4","4","10","4","4","8","8","8","6","6","4","5","10","10","10","10","8","10","10","1","1","1","1","1","1","1","1","1","1","10","8","10","1","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10"
+"2025/11/02 5:41:36 pm GMT+5:30","3rd Year","30-35","over 90 minutes","Public Transport (e.g., Metro, Public Bus)","8 to 8.9","Yes, I have major personal or family responsibilities.","With Family / Living at home","10","5","5","1","5","5","5","10","4","5","4","10","1","4","9","10","10","1","1","1","1","1","1","10","1","4","1","10","1","4","8","10","10","4","4","1","1","1","1","10","1","4","1","10","1","4","6","8","1","10","1","1","10","10","10","1","10","5","1","1","10","10","10","1","10","1","1","10","1","10","5","10","5","10","4","10","1","1","1","10","5","4","4","4","4","5","5","5","5","4","5","5","5","4","5","5","10","1","10","1","1","1","1","10","10","1","10","10","1","1","1","10","","","","","","","","","","","","","","","","","10","1","10","10","1","1","1","10","10","10","10","10","1","1","10","10"
+"2025/11/02 6:14:21 pm GMT+5:30","2nd Year","25-30","Under 15 minutes","Walking / Bicycle","9.0 and above","Yes, I have a part-time job or internship.","College Hostel (On-campus or affiliated)","8","7","7","6","6","7","8","9","7","6","6","6","5","7","8","7","8","7","8","6","6","6","7","8","7","6","5","6","5","6","7","6","7","5","8","5","5","5","7","9","6","4","4","6","3","6","6","5","1","9","1","1","7","7","7","7","7","1","1","5","9","7","7","5","8","7","8","7","6","5","7","9","7","5","5","5","1","5","5","5","7","5","7","9","7","5","5","9","5","7","5","5","1","5","5","5","5","5","7","5","5","5","5","7","5","5","5","5","1","7","7","7","7","5","7","5","5","5","5","7","5","5","5","5","9","5","5","5","8","8","6","5","5","6","6","9","6","5","5","5","3","7","7","5"
+"2025/11/02 6:31:44 pm GMT+5:30","2nd Year","30-35","over 90 minutes","Public Transport (e.g., Metro, Public Bus)","9.0 and above","No, college is my only major commitment.","With Family / Living at home","3","2","2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"2025/11/02 6:36:03 pm GMT+5:30","2nd Year","30-35","60 to 90 minutes","Public Transport (e.g., Metro, Public Bus)","8 to 8.9","Yes, I have major personal or family responsibilities.","PG / Rented Apartment","9","7","","7","9","","","7","6","9","","8","5","9","9","8","","","","","","","","","","","","","","","","","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","3","9","9","8","9","9","9","8","8","5","7","6","7","8","9","6","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10","10"
+"2025/11/02 7:28:10 pm GMT+5:30","3rd Year","25-30","over 90 minutes","Public Transport (e.g., Metro, Public Bus)","9.0 and above","No, college is my only major commitment.","With Family / Living at home","","8","6","","7","8","8","9","8","8","7","7","1","5","9","","","9","7","","10","8","8","10","8","9","7","8","1","5","9","","","5","","","5","8","8","7","8","8","5","6","1","4","8","","","8","2","","2","8","8","2","8","2","2","2","10","9","5","","","","","","","","","1","","","","","","","1","","","","","","","1","","","","","","","","","","","","1","","","","","","","","","","","","","","","","","","","","","","1","","","","","","","1","","","10","7","","9","9","9","9","9","9","7","7","1","1","9",""
+"2025/11/02 7:49:46 pm GMT+5:30","2nd Year","30-35","15 - 30 minutes","Walking / Bicycle","9.0 and above","Yes, I have major personal or family responsibilities.","PG / Rented Apartment","8","9","9","8","9","8","9","9","8","9","8","9","8","9","8","9","7","6","7","6","7","6","7","6","7","6","7","6","7","6","7","6","8","7","7","8","9","8","7","6","5","6","7","8","9","8","7","8","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","7","7","7","7","7","7","7","7","7","7","7","7","7","7","7","7","","5","5","5","5","5","5","5","5","5","5","5","5","5","5","5","7","7","7","7","7","7","7","7","7","7","7","7","7","7","7","7"
+"2025/11/03 12:18:27 pm GMT+5:30","2nd Year","25-30","30 - 60 minutes","Walking / Bicycle","Just aiming to PASS","No, college is my only major commitment.","PG / Rented Apartment","9","9","8","7","7","7","7","8","7","8","7","8","7","8","7","8","10","9","8","7","8","8","8","9","8","8","7","8","9","9","8","8","10","9","9","7","7","8","8","9","","8","7","9","9","8","9","8","10","9","8","9","9","","8","9","9","9","8","9","8","9","8","9","9","8","8","9","8","9","8","9","9","9","8","9","8","9","8","9","10","9","8","8","8","8","8","9","8","9","8","9","8","9","8","8","9","9","9","10","9","8","9","9","8","9","8","8","9","8","9","8","9","9","","8","8","9","8","8","9","8","9","9","8","9","9","8","6","6","6","5","6","6","6","6","6","6","6","6","6","6","6","6"
+"2025/11/04 3:19:10 pm GMT+5:30","3rd Year","30","Under 15 minutes","Walking / Bicycle","9.0 and above","No, college is my only major commitment.","College Hostel (On-campus or affiliated)","9","9","","7","7","8","8","9","7","7","8","7","3","8","8","7","8","8","","4","7","8","8","8","6","6","6","6","3","7","8","6","10","8","","5","6","8","8","8","7","6","6","6","3","7","8","8","1","10","","5","9","10","10","3","8","2","","5","10","10","7","5","5","6","","3","4","5","5","6","4","3","3","2","1","6","6","5","9","9","","7","7","9","9","9","8","6","5","5","3","9","9","7","9","9","","6","6","9","9","9","7","6","4","4","3","8","8","7","8","8","","5","5","8","8","8","5","5","4","4","3","8","8","7","4","4","1","1","1","4","4","1","1","1","1","1","1","4","4","1"
+"2025/11/04 3:29:12 pm GMT+5:30","3rd Year","25-30","Under 15 minutes","Public Transport (e.g., Metro, Public Bus)","9.0 and above","No, college is my only major commitment.","PG / Rented Apartment","9","9","","","8","8","8","9","8","8","","8","7","8","9","8","9","9","9","","8","6","7","9","7","8","","8","5","6","9","7","9","9","","","9","7","7","9","7","9","","7","5","7","9","8","9","9","","","9","9","9","8","8","8","","9","8","9","8","7","9","9","","","8","7","7","9","7","8","","8","6","7","8","7","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"2025/11/04 3:29:39 pm GMT+5:30","3rd Year","26","15 - 30 minutes","Walking / Bicycle","9.0 and above","Yes, I am heavily involved in a major society, club, or sports team.","PG / Rented Apartment","","9","9","","9","9","9","10","9","9","9","9","2","7","8","","","9","9","","8","8","8","9","8","9","8","9","2","7","8","","","8","8","","9","8","8","9","9","9","9","8","2","6","7","","","9","8","","8","9","9","8","8","8","9","9","9","9","8","","","8","8","","8","8","8","9","9","9","9","8","4","7","7","","","9","9","","9","9","9","9","9","9","9","9","3","3","8","","","9","9","","9","9","9","9","9","9","9","9","2","7","8","","","1","1","1","1","1","1","1","1","1","1","1","1","1","1","","","9","8","","8","8","8","9","8","8","8","8","3","3","8",""
+"2025/11/04 3:32:49 pm GMT+5:30","3rd Year","25-30","15 - 30 minutes","Walking / Bicycle","8 to 8.9","Yes, I have major personal or family responsibilities.","PG / Rented Apartment","","8","","","7","6","5","8","6","8","7","7","1","3","8","4","","8","","","8","6","5","8","6","8","","7","1","2","8","5","","6","","","8","8","5","7","6","8","","8","1","2","8","6","","9","","","8","8","8","8","8","8","","8","9","9","8","8","","8","","","8","8","6","8","6","8","","8","1","3","8","7","","8","","","8","8","7","8","7","8","","8","1","3","8","7","","8","","","8","8","6","8","6","8","","8","1","5","8","7","","7","","","7","6","5","7","5","6","","6","1","2","7","5","","7","","","7","5","4","6","5","6","","7","1","3","6","3"
+"2025/11/04 3:33:28 pm GMT+5:30","3rd Year","25-30","Under 15 minutes","Public Transport (e.g., Metro, Public Bus)","9.0 and above","No, college is my only major commitment.","College Hostel (On-campus or affiliated)","8","9","8","8","8","7","7","7","8","8","","7","3","7","9","10","8","7","10","","10","4","6","10","7","8","8","7","1","6","8","10","9","9","9","9","9","8","6","10","8","8","9","9","1","7","8","3","8","7","6","5","5","9","9","9","5","8","8","2","4","8","6","1","3","8","5","5","7","8","8","8","9","9","8","8","1","3","5","5","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","4","8","7","7","8","8","7","8","7","8","7","6","1","2","7","4"
+"2025/11/04 3:56:57 pm GMT+5:30","3rd Year","25-30","Under 15 minutes","Walking / Bicycle","9.0 and above","No, college is my only major commitment.","College Hostel (On-campus or affiliated)","","10","5","","9","9","8","10","6","7","","5","3","7","8","7","","9","6","","8","9","9","10","7","8","","6","3","7","9","7","","8","7","","9","9","8","9","7","8","","7","2","7","8","8","","10","7","","8","9","10","6","8","7","","7","9","10","8","6","","9","6","","7","9","8","8","7","7","","4","4","7","9","7","","10","7","","9","10","10","8","7","8","","6","7","8","10","8","","10","7","","8","9","9","8","7","7","","5","6","7","8","6","","9","5","","7","8","8","6","6","7","","4","4","5","8","6","","8","5","","7","8","7","7","8","6","","4","2","6","8","6"
+"2025/11/04 9:39:30 pm GMT+5:30","3rd Year","25-30","Under 15 minutes","Public Transport (e.g., Metro, Public Bus)","8 to 8.9","Yes, I have a part-time job or internship.","PG / Rented Apartment","","6","7","4","","7","6","8","6","5","5","7","2","2","7","","","6","7","2","","3","3","8","4","4","4","6","1","2","5","","","4","6","2","","3","3","6","2","","","","2","2","4","","","8","5","6","","7","7","4","4","3","2","","8","8","6","","8","","7","6","","","","9","","","","3","","","4","","","9","","6","","","","8","","","","","","","7","","","8","","","","","","6","","","","","","","","","","","","","","","","","","","","","","","","","","8","7","","","","","8","","","","","2","","",""
+"2025/11/04 11:33:49 pm GMT+5:30","3rd Year","20-25","15 - 30 minutes","Walking / Bicycle","8 to 8.9","No, college is my only major commitment.","PG / Rented Apartment","5","9","5","5","5","8","6","5","6","8","5","5","5","7","8","8","1","9","4","4","1","10","8","6","8","8","6","4","4","5","7","6","1","9","3","1","1","9","","3","8","8","1","1","7","","9","9","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","2","3","3","8","3","4","8","2","7","8","7","8","7","6","5","6","9","9","8","7","9","9","8","9","9","8","9","8","9","8","7","9","1","10","9","8","7","10","9","8","7","8","9","10","9","8","7","8","10","9","8","7","6","5","4","3","2","1","2","3","4","5","6","7"
+"2025/11/08 11:51:48 am GMT+5:30","3rd Year","25-30","15 - 30 minutes","Walking / Bicycle","8 to 8.9","No, college is my only major commitment.","PG / Rented Apartment","8","9","7","8","8","8","8","8","7","9","4","6","7","9","9","8","6","8","6","6","7","6","6","7","6","6","1","6","6","7","7","7","3","3","4","5","4","5","3","5","3","5","3","","6","3","5","3","2","10","8","4","8","6","5","6","7","2","2","","10","10","7","","7","","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","7","7","7","7","7","7","7","7","8","1","8","9","8","9","8","2","2","2","2","2","2","2","3","2","3","1","4","4","2","4","2","2","2","2","2","2","3","3","2","4","4","1","4","3","4","4","3","3","4","4","4","4","4","3","4","4","3","1","5","","6","6","6"
+"2025/11/08 12:09:21 pm GMT+5:30","2nd Year","25-30","over 90 minutes","Public Transport (e.g., Metro, Public Bus)","9.0 and above","No, college is my only major commitment.","With Family / Living at home","9","9","9","","7","","7","9","6","5","","6","5","6","6","","9","9","9","","6","","7","9","5","4","","4","4","7","7","","9","9","8","","5","","7","9","7","5","","5","4","6","6","","1","10","1","","5","","9","5","6","1","","6","6","10","10","","1","10","1","","5","","5","1","5","5","","1","5","9","9","","5","9","5","","6","","7","5","7","7","","5","7","7","7","","9","7","9","","6","","6","9","5","5","","5","6","5","5","","1","1","1","","1","","1","1","1","1","","1","1","1","1","","5","5","5","","5","","5","5","5","5","","5","5","5","5",""
+"2025/11/08 12:22:59 pm GMT+5:30","2nd Year","40-45","15 - 30 minutes","Walking / Bicycle","7 to 7.9","Yes, I have major personal or family responsibilities.","PG / Rented Apartment","3","3","3","2","","","3","","3","3","","4","3","3","3","3","3","3","3","","","","3","","3","3","","3","2","3","3","3","","","","","","","","","","","","1","2","2","2","2","","","","","","","","","","","","2","2","2","2","1","","","","","","","","","","","","1","3","3","4","2","","","","","","","","","","","","2","3","4","4","2","","","","","","","","","","","","3","4","4","4","3","","","","","","","","","","","","2","2","3","3","2","","","","","","","","","","","","2","3","4","4","2"
+"2025/11/11 10:30:25 am GMT+5:30","3rd Year","25-30","60 to 90 minutes","Public Transport (e.g., Metro, Public Bus)","9.0 and above","Yes, I have major personal or family responsibilities.","With Family / Living at home","8","6","7","2","2","8","5","8","6","9","7","4","1","5","8","6","8","5","6","1","3","9","4","8","6","9","7","4","1","5","8","6","8","5","7","1","3","9","4","8","5","8","6","3","1","6","7","6","1","9","1","8","8","9","9","2","7","1","1","7","9","9","7","2","9","9","9","1","3","9","9","9","7","9","9","7","1","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9","9"
+"2025/11/11 11:05:34 am GMT+5:30","3rd Year","45","60 to 90 minutes","Public Transport (e.g., Metro, Public Bus)","9.0 and above","Yes, I have a part-time job or internship.","With Family / Living at home","1","8","9","7","1","7","7","9","9","9","7","9","1","8","6","1","1","2","9","2","2","2","2","9","9","9","9","9","1","5","1","1","9","8","9","8","9","8","9","8","9","8","9","10","3","6","7","8","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","","10","9","9","9","10","9","9","9","9","9","9","9","9","9","9","2","10","8","2","2","8","8","9","9","9","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","8","7","7","7","7","7","7","7","","7","7","7","7","7","7","7","7","","7","7","","7","7","7","7","7","7","7","7","7","7","7","7"
+"2025/11/11 11:18:10 am GMT+5:30","2nd Year","35","15 - 30 minutes","Walking / Bicycle","9.0 and above","No, college is my only major commitment.","PG / Rented Apartment","9","9","9","8","9","9","8","9","9","9","8","9","9","9","8","9","8","9","7","8","8","8","7","8","8","7","8","9","","8","7","8","7","8","8","9","8","8","7","8","9","8","8","8","7","8","8","7","8","8","9","8","8","7","8","9","8","8","8","9","9","8","8","9","10","8","10","9","10","9","9","10","9","10","9","10","9","9","9","10","9","9","8","9","7","8","8","8","9","9","8","8","9","8","8","9","8","9","8","8","8","7","8","9","8","8","9","8","8","8","9","8","8","9","9","8","8","7","8","9","9","8","8","8","9","8","9","8","9","8","9","8","8","9","9","8","8","7","9","8","8","9","8","8"
+"2025/11/11 1:10:47 pm GMT+5:30","3rd Year","20-25","15 - 30 minutes","Public Transport (e.g., Metro, Public Bus)","8 to 8.9","No, college is my only major commitment.","PG / Rented Apartment","7","7","6","5","8","7","6","8","8","9","7","6","4","8","9","6","6","5","6","6","7","5","4","7","6","8","5","8","3","6","8","9","5","3","4","4","5","4","3","3","3","5","5","7","6","6","5","6","5","7","5","5","8","8","8","5","7","5","6","4","6","8","7","5","5","5","5","","6","7","7","7","6","4","4","4","4","7","8","6","5","6","6","5","5","5","5","5","5","5","6","6","7","6","6","6","6","6","6","6","6","","6","6","6","6","6","6","6","5","5","5","6","6","6","6","6","7","7","7","7","6","6","6","6","7","7","7","3","3","3","3","3","3","5","3","5","2","2","2","3","5","5","3"
+"2025/11/11 1:23:10 pm GMT+5:30","Passed out","NULL","Under 15 minutes","Walking / Bicycle","9.0 and above","Yes, I have a part-time job or internship.","College Hostel (On-campus or affiliated)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"2025/11/11 6:18:31 pm GMT+5:30","4th Year","30-35","30 - 60 minutes","Personal Vehicle (e.g., Scooter, Bike, Car)","9.0 and above","Yes, I have a part-time job or internship.","With Family / Living at home","2","4","2","2","2","4","4","3","3","4","4","2","3","4","1","3","2","4","3","3","3","4","4","3","4","4","4","2","3","4","1","4","2","3","3","2","2","3","3","3","3","4","3","2","2","3","1","3","3","4","1","2","2","4","4","3","2","1","2","1","2","4","3","2","3","4","3","3","3","4","4","3","3","4","3","3","3","3","1","2","3","4","3","3","3","4","3","3","2","2","2","2","2","2","1","3","1","4","1","1","1","4","4","1","1","1","1","1","1","","1","3","1","4","1","1","1","4","4","1","1","1","1","1","1","4","4","2","1","4","1","1","1","4","3","1","1","1","1","1","1","1","1","1"
+"2025/11/11 11:08:37 pm GMT+5:30","Passed out","NULL","Under 15 minutes","Walking / Bicycle","9.0 and above","Yes, I have major personal or family responsibilities.","College Hostel (On-campus or affiliated)","10","10","","","10","9","9","9","9","8","8","8","4","4","","6","8","10","","","6","8","8","","","3","","1","1","1","","3","3","2","","","5","2","2","","","6","8","8","8","8","","4","6","10","","","8","10","10","","","3","","6","7","10","","7","6","10","","","6","8","9","","","4","","3","2","2","","6","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","4","7","","","2","5","6","","","3","1","1","1","1","1","3"
